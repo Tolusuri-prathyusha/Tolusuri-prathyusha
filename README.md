@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm prathyusha Tolusuri</h1>
 <h3 align="center">I'm a passionate computer science student with a focus on web development and data science. My coding journey began in 2020, and I've been enthusiastic about creating impactful applications ever since.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tolusuri-prathyusha" alt="tolusuri-prathyusha" /></a> </p>
 
 - 📫 How to reach me **prathyushatolusuri48@gmail.com**
 
